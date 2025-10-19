@@ -47,3 +47,10 @@ Analyzes AAPL and MSFT, saves results to research_reports.json.
 ## Data Sources
 
 Using Yahoo Finance API (yfinance) for stock data. News analysis demonstrates the workflow patterns required for the assignment.
+
+
+## 📄 File 2: requirements.txt
+```
+yfinance
+requests
+pandas

@@ -1,4 +1,4 @@
-# Investment Research Agent
+# Multi-Agent Financial Analysis System"
 
 Name: Idrees Khan
 Course : AAI 520
